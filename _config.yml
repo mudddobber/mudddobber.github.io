@@ -28,6 +28,7 @@ twitter_username: _mudd_dobber_
 github_username:  mudddobber
 
 # Build settings
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
