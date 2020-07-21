@@ -28,7 +28,7 @@ twitter_username: _mudd_dobber_
 github_username:  mudddobber
 
 # Build settings
-theme: Hanuman
+remote_theme: Hanuman
 plugins:
   - jekyll-feed
 
