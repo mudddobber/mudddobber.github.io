@@ -23,7 +23,7 @@ email: mudddobber@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am Mudd Dobber. Here is my music.
 baseurl: "/mudddobber" # the subpath of your site, e.g. /blog
-url: "http://mudddobber.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://mudddobber.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _mudd_dobber_
 github_username:  mudddobber
 
